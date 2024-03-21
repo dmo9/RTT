@@ -6,6 +6,10 @@ SEGGER RTT Sources
 https://www.segger.com/products/debug-probes/j-link/technology/about-real-time-transfer  
 https://wiki.segger.com/RTT
 
+## About this fork
+Segger does not appear to regularly update their RTT github repository; probably because it gets updated on your host machine when the J-Link Software and Documentation Pack is updated. 
+I prefer to use RTT as a library and explicitly add it to my projects, so I made this fork. 
+
 ## Included files
 
   * `RTT/`
